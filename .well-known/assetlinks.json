@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.strongsangam.app",
+        "sha256_cert_fingerprints": ["14:96:A4:E0:DD:1E:F7:52:0F:F6:44:2D:B3:77:C5:56:46:35:81:38:41:8E:D6:28:6F:3E:3F:84:E5:3D:F7:80"]
+      }
+    }]
